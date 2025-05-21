@@ -2,7 +2,7 @@
 
 A fun, fast-paced multiple-choice quiz game built with HTML, CSS, and JavaScript. Designed to test your knowledge and keep you on your toes — with a timer, scoring system, and a high-score leaderboard!
 
-![Quiz Game Screenshot](./screenshots/quiz-home.png)
+![Quiz Game Screenshot](quiz-home.png)
 
 ---
 
@@ -28,7 +28,7 @@ A fun, fast-paced multiple-choice quiz game built with HTML, CSS, and JavaScript
 
 | Start Screen                | Quiz in Progress             | Scoreboard Page              |
 |----------------------------|------------------------------|------------------------------|
-| ![Home](./screenshots/quiz-home.png) | ![Quiz](./screenshots/quiz-play.png) | ![Scores](./screenshots/quiz-scores.png) |
+| ![Home](quiz-home.png) | ![Quiz](quiz-play.png) | ![Scores](quiz-scores.png) |
 
 ---
 
