@@ -64,6 +64,7 @@ Timer-based difficulty curve
 
 Backend support and authentication
 
-🙌 Credits
+🙌 Credits:
+
 Built by Shubhangi Shukla
 Inspired by countless late-night quiz games and JavaScript tutorials ✨
