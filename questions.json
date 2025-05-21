@@ -1,0 +1,28 @@
+{
+    "questions": [
+        {
+            "question": "What does HTML stand for?",
+            "choice1": "Hyper Text Markup Language",
+            "choice2": "High Tech Modern Language",
+            "choice3": "Hyper Transfer Markup Language",
+            "choice4": "Home Tool Markup Language",
+            "answer": 1
+        },
+        {
+            "question": "Which programming language is known as the 'mother of all languages'?",
+            "choice1": "Java",
+            "choice2": "C",
+            "choice3": "Python",
+            "choice4": "Assembly",
+            "answer": 2
+        },
+        {
+            "question": "What is the primary purpose of CSS?",
+            "choice1": "To add interactivity",
+            "choice2": "To structure content",
+            "choice3": "To style web pages",
+            "choice4": "To handle server requests",
+            "answer": 3
+        }
+    ]
+}
